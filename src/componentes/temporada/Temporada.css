@@ -1,0 +1,14 @@
+h2 {
+  color: var(--verde);
+}
+
+.temporada {
+    padding: 1rem;
+  }
+  
+  .tarjetas-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
